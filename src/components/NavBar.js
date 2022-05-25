@@ -15,7 +15,7 @@ const NavBar = () => {
               className="d-inline-block align-top"
               alt=""
             />
-            &nbsp; Okino Shop
+            &nbsp; Okino Shop 555
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
