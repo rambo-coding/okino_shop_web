@@ -24,7 +24,7 @@ const NavBar = () => {
               <Nav.Link href="#about">เกี่ยวกับเรา</Nav.Link>
               <Nav.Link href="#service">บริการ</Nav.Link>
               <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+                <NavDropdown.Item href="#action/3.1">อื่นๆ</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">
                   Another action
                 </NavDropdown.Item>
