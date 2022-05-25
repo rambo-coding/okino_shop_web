@@ -1,6 +1,6 @@
 import React from "react";
 import { Navbar, Nav, Container, NavDropdown } from "react-bootstrap";
-import navLogo from "../assets/logo192.png"
+import navLogo from "../assets/bag.jpeg"
 
 const NavBar = () => {
   return (
@@ -12,7 +12,7 @@ const NavBar = () => {
               src={navLogo}
               width="30"
               height="30"
-              className="d-inline-block align-top"
+              className="d-inline-block align-top rounded-3"
               alt=""
             />
             &nbsp; Okino Shop 555
